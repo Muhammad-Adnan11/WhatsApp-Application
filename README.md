@@ -1,16 +1,21 @@
 # whatsapp_application
+# 📱 WhatsApp UI Clone - Flutter  
 
-A new Flutter project.
+This project is a **UI clone of WhatsApp**, built entirely with **Flutter**.  
+It focuses only on **UI screens** like chats, status, calls, and settings.
 
-## Getting Started
+## 🚀 Features
+- Chat List Screen  
+- Individual Chat Screen  
+- Status Screen  
+- Calls Screen  
+- Settings Screen  
+- WhatsApp-like Theme  
 
-This project is a starting point for a Flutter application.
+## 🛠️ Built With
+- Flutter (Dart)  
+- Material Design Widgets  
 
-A few resources to get you started if this is your first Flutter project:
+## 📌 Note
+This is not an official WhatsApp app. It is only a UI clone made for learning purposes.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
